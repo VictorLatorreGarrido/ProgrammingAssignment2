@@ -1,3 +1,6 @@
+# This is a fork for solving the third week assignment.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
